@@ -1,5 +1,5 @@
 /*
-	ECE372 | Project 2: Part2 (Stepper Motor)
+	Stepper Motor Driver
 	
 	The program below Initializes I2C1 one, and sends a signal 
 	to the motor controller board (PCA9685 chip) using polling method.

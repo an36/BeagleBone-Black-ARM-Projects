@@ -1,5 +1,5 @@
 /*
-	ECE372 | Project 2: Part1 (Testing I2C signals)
+	Testing I2C signals
 	
 	The program below Initializes I2C1 one, and sends a signal 
 	to the slave address 0x60 using Polling.  The program Polls the
